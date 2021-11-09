@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @battyversa
-- 👀 I’m interested in wildlife research and conservation
+- 👀 I’m interested in wildlife research and conservation, particularly bats
 - 🌱 I’m currently learning on how to use github 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me versarai15@gmail.com
